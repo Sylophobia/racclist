@@ -1,4 +1,6 @@
-# racclistv1
+# racc list 
+
+~maintained by sylo~
 
 
 ## discord uids
