@@ -1,6 +1,7 @@
 # racc list 
 
 * maintained by sylo
+* use archive.txt if any errrors occur with uids
 
 
 ## discord uids
