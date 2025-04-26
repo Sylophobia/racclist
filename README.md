@@ -1,7 +1,7 @@
 # racc list 
 
 * maintained by sylo
-* use archive.txt if any errrors occur with uids
+* use [archive.txt](/archive.txt) if any errrors occur with uids
 
 
 ## discord uids
