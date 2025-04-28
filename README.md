@@ -2,6 +2,7 @@
 
 * maintained by sylo
 * use [archive.txt](/archive.txt) if any errrors occur with uids
+* this list is updated every week from 28/04/25 NZST for more frequent updates, visit [vtracker](https://github.com/ksiscute/vtracker)
 
 
 ## discord uids
